@@ -1,2 +1,2 @@
-# blokymose.github.io
-Testing github page
+# Welcome to BlokyMose github page
+Hello, there
